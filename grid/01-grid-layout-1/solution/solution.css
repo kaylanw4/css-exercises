@@ -1,5 +1,4 @@
-body,
-html {
+body, html {
   height: 100%;
   margin: 0;
 }
@@ -21,23 +20,19 @@ html {
 }
 
 .header {
-  background-color: #006157
+  background-color: #FFDE22;
 }
 
 .sidebar {
-  background-color: #005B94
+  background-color: #FF7755;
 }
 
 .nav {
-  background-color: #642cde
+  background-color: #00DDFF;
 }
 
 .article {
-  background-color: #7E1DC3
-}
-
-.footer {
-  background-color: #393f4d;
+  background-color: #bccbde;
 }
 
 .article p {
@@ -45,6 +40,10 @@ html {
   font-family: sans-serif;
   color: white;
   text-align: left;
+}
+
+.footer {
+  background-color: #393f4d;
 }
 
 /* SOLUTION */

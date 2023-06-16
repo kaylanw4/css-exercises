@@ -25,7 +25,7 @@
 }
 
 .sidebar {
-  background-color: #C50208;
+  background-color: #FF7755;
 }
 
 .sidebar .photo {
@@ -45,7 +45,7 @@
 }
 
 .nav {
-  background-color: #C50208;
+  background-color: #FF7755;
 }
 
 .nav ul li {
@@ -87,5 +87,5 @@
 
 .footer p {
   font-size: 13px;
-  font-weight: normal;
+  font-weight: normal;  
 }
